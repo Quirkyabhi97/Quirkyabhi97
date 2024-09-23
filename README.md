@@ -1,4 +1,4 @@
--  Hi, I’m Abhinav Sharma, a frontend developer by profession.
+-  Hi, I’m Abhinav Sharma, a fullstack developer by profession.
 
 - Currently I am working on React and JavaScript.
 
