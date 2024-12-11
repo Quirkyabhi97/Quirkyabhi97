@@ -1,4 +1,4 @@
--  Hi, I’m Abhinav Sharma, a fullstack developer by profession.
+-  Hi, I’m Abhinav Sharma, a full-stack developer.
 
 - Currently, I am working on MERN stack technologies.
 
